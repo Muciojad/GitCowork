@@ -8,6 +8,7 @@ public class SomeCode : MonoBehaviour
     void Start() {
         Debug.Log("Hi Mark");
         Debug.Log("Dziala");
+        Debug.Log("WTF");
     }
 
     // Update is called once per frame
